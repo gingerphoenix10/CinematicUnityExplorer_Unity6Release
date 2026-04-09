@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+    I did not make this Unity 6 fork, this is just for a downloadable release. Original fork by <a href="https://github.com/slidedrum">slidedrum</a>.
+<p align="center">
   🎥 Fork of the excellent UnityExplorer mod made by <a href="https://github.com/sinai-dev">sinai-dev</a> focused on providing tools for creating marketing material for Unity games.
 </p>
 <p align="center">
